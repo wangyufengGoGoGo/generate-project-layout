@@ -5,10 +5,10 @@
 ### 使用方式
 
 ```
-go get github.com/wangyufengGoGoGo/generate-project-layout
+go install github.com/wangyufengGoGoGo/generate-project-layout
 ```
 
-在创建的go module项目目录下执行`layout new`命令
+在创建的go module项目目录下执行`generate-project-layout new`命令
 
 ### 该项目布局来自于[golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 
