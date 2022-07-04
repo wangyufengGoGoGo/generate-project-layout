@@ -1,4 +1,4 @@
-module github.com/wangyufengGoGoGo/generate-project-layout
+module github.com/wangyufengx/generate-project-layout
 
 go 1.17
 
